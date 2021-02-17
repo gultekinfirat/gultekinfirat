@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KamppIntro", "KamppIntro\KamppIntro.csproj", "{B43CDE0B-D6FC-4C58-8E85-5A12BE9EB17C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KamppIntro", "KamppIntro\KamppIntro.csproj", "{B43CDE0B-D6FC-4C58-8E85-5A12BE9EB17C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{328E0C38-5DA7-4D22-81E5-DABD97CFC72E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{328E0C38-5DA7-4D22-81E5-DABD97CFC72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{234D7C06-D502-442D-A6D8-84C69229C1D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{234D7C06-D502-442D-A6D8-84C69229C1D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{EBA25463-2A61-4740-B72E-F22B394D312B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{EBA25463-2A61-4740-B72E-F22B394D312B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{9F84EC8F-67A9-4C35-B43B-F10C1B472E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{9F84EC8F-67A9-4C35-B43B-F10C1B472E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{3AC1E0D1-B11F-4F27-9199-CB3FAF242088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{3AC1E0D1-B11F-4F27-9199-CB3FAF242088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{24D33E37-CF3F-4E76-9DC2-9FBA1CAE1190}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3AC1E0D1-B11F-4F27-9199-CB3FAF242088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC1E0D1-B11F-4F27-9199-CB3FAF242088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC1E0D1-B11F-4F27-9199-CB3FAF242088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D33E37-CF3F-4E76-9DC2-9FBA1CAE1190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D33E37-CF3F-4E76-9DC2-9FBA1CAE1190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D33E37-CF3F-4E76-9DC2-9FBA1CAE1190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D33E37-CF3F-4E76-9DC2-9FBA1CAE1190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
